@@ -2,11 +2,9 @@
 # -*- coding: utf-8 -*-
 
 """
-File: gcexport.py
-Original author: Kyle Krafka (https://github.com/kjkjava/)
-Date: April 28, 2015
-Fork author: Michael P (https://github.com/moderation/)
-Date: August 25, 2018
+File: wellnessexport.py
+Original author: Tristan (https://github.com/steckbrief)
+Date: January 2019
 
 Description:    Use this script to export your fitness data from Garmin Connect.
                 See README.md for more information.
